@@ -1,0 +1,8 @@
+site_name: AppPolicy Copilot
+nav:
+  - Home: index.md
+  - Roadmap: roadmap.md
+  - Design Partner Program: design-partner-program.md
+  - Security: security.md
+theme:
+  name: mkdocs
