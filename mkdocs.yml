@@ -1,8 +1,12 @@
 site_name: AppPolicy Copilot
 nav:
-  - Home: index.md
-  - Roadmap: roadmap.md
-  - Design Partner Program: design-partner-program.md
-  - Security: security.md
+  - Home: docs/index.md
+  - Install: docs/install.md
+  - Using Pro Packs: docs/using-pro-packs.md
+  - Troubleshooting: docs/troubleshooting.md
+  - Security: docs/security.md
+  - Pricing: docs/pricing.md
+  - Changelog: docs/changelog.md
+  - Design Partner Program: docs/design-partner-program.md
 theme:
   name: mkdocs
